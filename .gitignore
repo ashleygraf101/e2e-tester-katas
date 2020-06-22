@@ -1,2 +1,4 @@
 /pycache
 /.pytest_cache
+/_pycache
+__init__.py
