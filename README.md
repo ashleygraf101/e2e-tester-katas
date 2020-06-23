@@ -1,6 +1,8 @@
 *Test automation practice*
 
 **what happens here**
-- writing up test cases
-- implementing said test cases in Selenium
-- learning how to create an automation framework
+- learning Selenium
+- just practising syntax
+- writing acceptance and regression test cases
+**next project**
+- creating an automation framework and tests for a React project
