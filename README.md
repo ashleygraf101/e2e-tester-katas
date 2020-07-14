@@ -1,5 +1,3 @@
-*Test automation practice*
-
 **what happens here**
-- learning Selenium
+- learning boilerplate Selenium
 - just practising syntax
